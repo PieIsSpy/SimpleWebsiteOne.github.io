@@ -5,3 +5,8 @@ h1 {
     color: green;
     font-weight: bold;
 }
+
+.center {
+    display: block;
+    margin: auto;
+}
