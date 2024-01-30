@@ -21,6 +21,6 @@ body {
 
 #foreground {
     position: fixed;
-    bottom: 500px;
+    bottom: 100px;
     left: 10000px;
 }
