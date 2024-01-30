@@ -18,3 +18,9 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+#foreground {
+    position: fixed;
+    top: 50px;
+    left: 100px;
+}
